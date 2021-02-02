@@ -2,4 +2,7 @@
 
 Développement d'une API sur les arbres en informatique.
 
-Comprend : les arbres, ABR (Arbre binaire de recherche) et AVL (arbre binaire de recherche automatiquement équilibré).
+Comprend les : 
+- Arbres
+- ABR (Arbre binaire de recherche)
+- AVL (arbre binaire de recherche automatiquement équilibré).
