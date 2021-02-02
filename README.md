@@ -1,6 +1,6 @@
 # Arbre
 
-Développement d'une API sur les arbres en informatique.
+API sur les arbres en informatique.
 
 Comprend les : 
 - Arbres
