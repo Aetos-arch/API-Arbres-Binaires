@@ -1,7 +1,7 @@
-# API-Arbres-Binaires
+# API-Tree-Binaries
 
-API sur les arbres en informatique.
+API on trees in computing.
 
-Comprend :
-- ABR (arbre binaire de recherche)
-- AVL (arbre binaire de recherche automatiquement équilibré)
+Includes :
+- ABR (binary search tree)
+- AVL (automatically balanced binary search tree)
